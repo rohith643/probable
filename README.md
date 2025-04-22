@@ -1,0 +1,10 @@
+Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));Map<String, Integer> map = new HashMap<>();
+map.forEach((key, value) -> System.out.println(key + " = " + value));
